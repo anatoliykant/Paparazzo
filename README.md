@@ -207,10 +207,10 @@ imageSource.imageSize { size in
 ```
 
 # Authors
-Andrey Yutkin (ayutkin@avito.ru)
-Artem Peskishev (aopeskishev@avito.ru)
-Timofey Khomutnikov (tnkhomutnikov@avito.ru)
-Vladimir Kaltyrin (vkaltyrin@avito.ru)
+* Andrey Yutkin (ayutkin@avito.ru)
+* Artem Peskishev (aopeskishev@avito.ru)
+* Timofey Khomutnikov (tnkhomutnikov@avito.ru)
+* Vladimir Kaltyrin (vkaltyrin@avito.ru)
 
 # License
 MIT
